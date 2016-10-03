@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi Moey! Good Morning~
 333333333333ddddHi Shirls~ Good Morning~
+=======
+Hi Moey! Good Morningi~
+Master changes.
+>>>>>>> 189c531a9562bcb3b231d41b57d286c20543d0e8
