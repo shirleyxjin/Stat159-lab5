@@ -7,3 +7,5 @@ File2 resolving conflict!!!!
 
 hhhhhhh
 >>>>>>> 189c531a9562bcb3b231d41b57d286c20543d0e8
+
+i feel so sad
